@@ -30,21 +30,14 @@ Licensed under [CERN-OHL-S v2](LICENSE).
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](Images/schematic.png)
 
 ---
 
-## PCB
+## PCB Renders
 
-![PCB Top](images/pcb_top.png)
-![PCB Bottom](images/pcb_bottom.png)
-
----
-
-## Render
-
-![Render Top](images/render_top.png)
-![Render Bottom](images/render_bottom.png)
+![PCB Top](Images/pcb_top.png)
+![PCB Bottom](Images/pcb_bottom.png)
 
 ---
 
