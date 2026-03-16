@@ -34,17 +34,10 @@ Licensed under [CERN-OHL-S v2](LICENSE).
 
 ---
 
-## PCB
+## PCB Renders
 
 ![PCB Top](Images/pcb_top.png)
 ![PCB Bottom](Images/pcb_bottom.png)
-
----
-
-## Render
-
-![Render Top](Images/render_top.png)
-![Render Bottom](Images/render_bottom.png)
 
 ---
 
