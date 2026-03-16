@@ -1,4 +1,4 @@
-(pcb freerouting.dsn
+(pcb "/home/fynr1x/Documents/Projects/Active/Bit32F0/Hardware/temp-freerouting.dsn"
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
