@@ -1,4 +1,4 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
+﻿Designator,Footprint,Quantity,Value
 "BOOT1, RESET1",SW_SPST_B3U-1000P,2,SW_Push,
 C1,0402,1,0.1uF,
 "C2, C4, C5",0402,3,1uF,
